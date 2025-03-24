@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Assignment For Week 3 </title>
+        <!-- 2. internal css -->
+        <style>
+            .highlight {
+                color: white;
+                font-size: 20px;
+            }
+            footer {
+                text-align: center;
+                font-style: italic;
+                font-weight: bold;
+                text-decoration: underline;
+            }
+            
+    <!--  external css  -->
+        
+  <link rel="stylesheet" href="css/mystyle.css">
+
+ </style>
+    </head>
+    <!--  in-line css -->
+    <body style="background-color: cadetblue;">
+        <h1 class="highlight">Welcome to Week 3 Assignment</h1>
+        <p class="highlight">Create a style.css file. Apply CSS to a HTML page. Style elements using: Classes and IDs. Color and typography. Margins, paddings, and borders.</p><br><br>
+        <img src="C:\Users\adewh\Web Design\feb-2025-week-3-session-2\images\coding.jpg" alt="" width="500">
+        <footer><br><br><br>
+            <p class="highlight">&copy; 2025. All rights reserved.</p>
+        </footer>
+    </body>
+</html>
